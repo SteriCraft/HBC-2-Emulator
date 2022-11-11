@@ -1,0 +1,8 @@
+Debug/
+x64/
+
+*.odg
+*.vcxproj
+*.filters
+*.user
+*.dll
